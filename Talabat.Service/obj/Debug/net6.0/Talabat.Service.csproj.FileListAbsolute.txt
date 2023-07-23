@@ -1,0 +1,15 @@
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CopyComplete

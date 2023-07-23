@@ -1,0 +1,15 @@
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Repository\bin\Release\net6.0\Talabat.Repository.deps.json
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Repository\bin\Release\net6.0\Talabat.Repository.dll
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Repository\bin\Release\net6.0\Talabat.Repository.pdb
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Repository\bin\Release\net6.0\Talabat.Core.dll
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Repository\bin\Release\net6.0\Talabat.Core.pdb
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Repository\obj\Release\net6.0\Talabat.Repository.csproj.AssemblyReference.cache
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Repository\obj\Release\net6.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Repository\obj\Release\net6.0\Talabat.Repository.AssemblyInfoInputs.cache
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Repository\obj\Release\net6.0\Talabat.Repository.AssemblyInfo.cs
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Repository\obj\Release\net6.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Repository\obj\Release\net6.0\Talabat.Repository.csproj.CopyComplete
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Repository\obj\Release\net6.0\Talabat.Repository.dll
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Repository\obj\Release\net6.0\refint\Talabat.Repository.dll
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Repository\obj\Release\net6.0\Talabat.Repository.pdb
+D:\ROUTE\08 ASP.NET Core Web APIs\Session 01\Assignments\Talabat.Solution\Talabat.Repository\obj\Release\net6.0\ref\Talabat.Repository.dll
