@@ -1,3 +1,3 @@
-I have developed an e-commerce web App (API).
-I have implemented the Repository and Unit of Work patterns, as well as the Specification design pattern.
-I have implemented caching using Redis, both client-side and server-side validation.
+I used the Onion architecture, And implemented the Repository, Unit of Work patterns,
+As well as the Specification design pattern, Caching using Redis 
+and both client-side and server-side validation.
